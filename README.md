@@ -6,3 +6,7 @@
 sebanyak 5 data message, yang setiap messagenya mengandung user id dan username.
 2. Arti dari url amqp://guest://guest:guest@localhost:5672. Penggunaan url yang sama berarti protokol, akun yang
 digunakan, dan server RabbitMQ dari subscriber dan publisher sama.
+
+## Running RabbitMQ as message broker
+
+![RabbitMQ dashboard screenshot](/assets/images/rabbitmq_dashboard.png)
