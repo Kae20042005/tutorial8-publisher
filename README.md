@@ -10,3 +10,7 @@ digunakan, dan server RabbitMQ dari subscriber dan publisher sama.
 ## Running RabbitMQ as message broker
 
 ![RabbitMQ dashboard screenshot](/assets/images/rabbitmq_dashboard.png)
+
+## Sending and processing event
+
+![console screenshot](/assets/images/message_consoles.png)
