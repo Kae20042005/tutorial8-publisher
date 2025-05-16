@@ -14,3 +14,10 @@ digunakan, dan server RabbitMQ dari subscriber dan publisher sama.
 ## Sending and processing event
 
 ![console screenshot](/assets/images/message_consoles.png)
+Ketika cargo run dijalankan publisher mengirim 5 message ke subscriber
+
+## Monitoring chart based on publisher
+
+![RabbitMQ message rates screenshot](/assets/images/rabbitmq_spikes.png)
+Ketika publisher di run maka publisher akan mengirim sebuah message ke subscriber, sehingga pengiriman message
+terdeteksi dalam grafik messages rates yang ada di RabbitMQ
